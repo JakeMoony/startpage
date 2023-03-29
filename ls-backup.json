@@ -1,0 +1,139 @@
+{
+  "yags-general": {
+    "img": "https://i.pinimg.com/originals/06/a8/5b/06a85b703ccc50fcc2214bac56214f48.gif",
+    "title": "Ola, Jake",
+    "displayImg": true,
+    "font": "Quicksand",
+    "enableFonts": false
+  },
+  "yags-search": {
+    "placeholder": "Pesquisa",
+    "engine": "duckduckgo",
+    "forwardingLookup": {
+      "/": "/",
+      "deepl": "https://deepl.com/",
+      "reddit": "https://reddit.com/",
+      "maps": "https://maps.google.com/"
+    }
+  },
+  "yags-theme": {
+    "inverted": false,
+    "color": {
+      "name": "custom",
+      "bg": {
+        "shade": "#13131E",
+        "base": "#181825",
+        "surface": "#1D1D2C",
+        "highlight": "#222234"
+      },
+      "fg": {
+        "shade": "#969696",
+        "base": "#BBBBBB",
+        "surface": "#E0E0E0",
+        "highlight": "#FFFFFF"
+      },
+      "primary": {
+        "bg": "#181825",
+        "base": "#313244",
+        "fg": "#4A4B66"
+      },
+      "secondary": {
+        "bg": "#11111b",
+        "base": "#1E1E2E",
+        "fg": "#2D2D45"
+      },
+      "palette": {
+        "red": "#E06C75",
+        "green": "#98C379",
+        "yellow": "#E5C07B",
+        "blue": "#61AFEF",
+        "purple": "#C678DD",
+        "cyan": "#56B6C2",
+        "orange": "#FFBB7C"
+      }
+    },
+    "space": {
+      "smallest": "0.125rem",
+      "small": "0.5rem",
+      "medium": "1rem",
+      "large": "1.5rem",
+      "largest": "3rem"
+    }
+  },
+  "yags-surface": {
+    "shadow": {
+      "amount": 3,
+      "blur": 0,
+      "offset": 12,
+      "shadow": "12px 12px 0px rgb(24, 24, 37), 24px 24px 0px rgb(20.5, 20.5, 32), 36px 36px 0px rgb(17, 17, 27)"
+    },
+    "borderRadius": 32,
+    "maxWidth": 1100
+  },
+  "yags-bookmarks": [
+    {
+      "id": "FiUKTletMY65IBpj",
+      "label": "Github",
+      "bookmarks": [
+        {
+          "id": "VxAorYizVXbIc2xb",
+          "label": "Jake",
+          "url": "https://github.com/JakeMoony"
+        },
+        {
+          "id": "3obJ7Q8w7cnkZSsN",
+          "label": "Eggroll",
+          "url": "https://github.com/GloriousEggroll"
+        }
+      ]
+    },
+    {
+      "id": "kSlqEMxGJJI0EP6q",
+      "label": "Songs",
+      "bookmarks": [
+        {
+          "id": "8WiBYElfFZMbvNRU",
+          "label": "Watch me wither",
+          "url": "https://www.youtube.com/watch?v=jrdGLHaKJ2k"
+        },
+        {
+          "id": "H7TgWN3fdXq66Vqz",
+          "label": "Far away from you",
+          "url": "https://www.youtube.com/watch?v=b4jaAf1zLP4"
+        }
+      ]
+    },
+    {
+      "id": "vgP6jzPtRt9viBTX",
+      "label": "Reddit",
+      "bookmarks": [
+        {
+          "id": "9AGTmYoeMDf8a3v9",
+          "label": "r/unixporn",
+          "url": "https://www.reddit.com/r/unixporn/"
+        },
+        {
+          "id": "SIK6m9JiBYGMb4TQ",
+          "label": "r/warframe",
+          "url": "https://www.reddit.com/r/Warframe/"
+        }
+      ]
+    },
+    {
+      "id": "uf8uWpJulFfMRUly",
+      "label": "Movies",
+      "bookmarks": [
+        {
+          "id": "fCoiPVRkyTMmPUji",
+          "label": "Interstellar",
+          "url": "https://www.primevideo.com/dp/amzn1.dv.gti.1cb125e2-a86d-3537-4f6c-1be5f2e0f5f1?autoplay=0&ref_=atv_cf_strg_wb-4f6c-1be5f2e0f5f1%3Fautoplay%3D0%26ref_%3Datv_cf_strg_wb&usg=AOvVaw37tzfAswEa2dRLF_H74uPQ"
+        },
+        {
+          "id": "ff4P1vrorIIiAoTO",
+          "label": "John wick",
+          "url": "https://www.primevideo.com/dp/amzn1.dv.gti.b6b9796d-2e0e-5d38-5f54-ba91cbb23bd8?autoplay=0&ref_=atv_cf_strg_wb"
+        }
+      ]
+    }
+  ]
+}

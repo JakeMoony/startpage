@@ -12,7 +12,9 @@
 
 Este é apenas um projeto pessoal para meus usos pessoais, está bem vindo a usar parte do codigo caso o convenha
 
-## [🚀 Acesse a pagina]([https://iuricode.com/efront](https://jakemoony.github.io/startpage))
+## 🚀 Seja um dos contribuidores
+
+Quer acessar a pagina? clique [AQUI](https://jakemoony.github.io/startpage) e começe a usar.<br>
 
 ## ☕ Utilizando a pagina
 

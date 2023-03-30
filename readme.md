@@ -12,9 +12,9 @@
 
 Este é apenas um projeto pessoal para meus usos pessoais, está bem vindo a usar parte do codigo caso o convenha
 
-## 🚀 Seja um dos contribuidores
+## 🚀 Quer acessar a pagina?
 
-Quer acessar a pagina? clique [AQUI](https://jakemoony.github.io/startpage) e começe a usar.<br>
+[![Pagina](https://img.shields.io/badge/%F0%9F%9A%80-Clique%20aqui-blue)](https://jakemoony.github.io/startpage)
 
 ## ☕ Utilizando a pagina
 

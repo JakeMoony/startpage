@@ -6,13 +6,19 @@
 
 <img src="startpage.png" alt="start page">
 
-> Pagina inicial para o navegador com o tema Catppuccin
+> Pagina inicial para o navegador com o tema Catppuccin, com referências a programação, dark souls e zelda.
 
 ### O projeto
 
 Este é apenas um projeto pessoal para meus usos pessoais, está bem vindo a usar parte do codigo caso o convenha
 
-## 🚀 Usando a pagina
+## 🚀 Acesse a pagina
+
+```
+https://jakemoony.github.io/startpage/
+```
+
+## ☕ Utilizando a pagina
 
 ```
 Você pode pesquisar usando o duckduckgo e entrar em meu repositório

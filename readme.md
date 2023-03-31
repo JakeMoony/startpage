@@ -14,7 +14,7 @@ Este é apenas um projeto pessoal para meus usos pessoais, está bem vindo a usa
 
 ## 🚀 Quer acessar a pagina?
 
-[![Pagina](https://img.shields.io/badge/%F0%9F%9A%80-Clique%20aqui-blue)](https://jakemoony.github.io/startpage)
+[![Pagina](https://img.shields.io/badge/%F0%9F%9A%80-Clique%20aqui-blue)](https://jakevoided.github.io/startpage)
 
 ## ☕ Utilizando a pagina
 

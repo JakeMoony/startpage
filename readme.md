@@ -1,8 +1,8 @@
 # Pagina inicial
 
-![Html Badge](https://img.shields.io/badge/HTML-121011?style=for-the-badge&logo=html5&logoColor=white)
-![Css Badge ](https://img.shields.io/badge/CSS-121011?&style=for-the-badge&logo=css3&logoColor=white)
-![Javascript Badge](https://img.shields.io/badge/JavaScript-121011?style=for-the-badge&logo=javascript&logoColor=white)
+![Html Badge](https://img.shields.io/badge/HTML-0d1117?style=for-the-badge&logo=html5&logoColor=white)
+![Css Badge ](https://img.shields.io/badge/CSS-0d1117?&style=for-the-badge&logo=css3&logoColor=white)
+![Javascript Badge](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=white)
 
 <img src="startpage.png" alt="start page">
 
@@ -14,7 +14,7 @@ Este é apenas um projeto pessoal para meus usos pessoais, está bem vindo a usa
 
 ## 🚀 Quer acessar a pagina?
 
-[![Pagina](https://img.shields.io/badge/%F0%9F%9A%80-Clique%20aqui-blue)](https://jakeDystopia.github.io/startpage)
+[![Pagina](https://img.shields.io/badge/Clique%20Aqui-0d1117?style=for-the-badge&logoColor=white)](https://jakeDystopia.github.io/startpage)
 
 ## ☕ Utilizando a pagina
 

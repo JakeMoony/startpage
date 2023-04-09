@@ -14,7 +14,7 @@ Este é apenas um projeto pessoal para meus usos pessoais, está bem vindo a usa
 
 ## 🚀 Quer acessar a pagina?
 
-[![Pagina](https://img.shields.io/badge/Clique%20Aqui-0d1117?style=for-the-badge&logoColor=white)](https://jakeDystopia.github.io/startpage)
+<a href="https://jakeDystopia.github.io/startpage" target="_blank"><img src="https://img.shields.io/badge/Clique%20Aqui-0d1117?style=for-the-badge&logoColor=white" alt="Pagina"></a>
 
 ## ☕ Utilizando a pagina
 

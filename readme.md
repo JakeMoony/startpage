@@ -1,8 +1,8 @@
 # Pagina inicial
 
-![Html Badge](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![Css Badge ](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Html Badge](https://img.shields.io/badge/HTML-121011?style=for-the-badge&logo=html5&logoColor=white)
+![Css Badge ](https://img.shields.io/badge/CSS-121011?&style=for-the-badge&logo=css3&logoColor=white)
+![Javascript Badge](https://img.shields.io/badge/JavaScript-121011?style=for-the-badge&logo=javascript&logoColor=white)
 
 <img src="startpage.png" alt="start page">
 

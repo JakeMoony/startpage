@@ -22,7 +22,7 @@ Este é apenas um projeto pessoal para meus usos pessoais, está bem vindo a usa
 Você pode pesquisar usando o duckduckgo e entrar em meu repositório
 ```
 
-## 📫 Crie seu fork da pagina
+## 📫 Contribua para a pagina!
 Para criar seu fork, siga estas etapas:
 
 1. Bifurque este repositório.
